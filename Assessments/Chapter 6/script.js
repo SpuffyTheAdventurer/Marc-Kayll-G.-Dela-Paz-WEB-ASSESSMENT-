@@ -1,10 +1,7 @@
 function calculateTotal() {
 
     let cost = document.getElementById("cost").value;
-    let litres = document.getElementById("litres").value;
-
-
-
+    let litres = document.getElementById("litres").value;
 
     cost = parseFloat(cost);
     litres = parseFloat(litres);
